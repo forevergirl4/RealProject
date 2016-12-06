@@ -1,5 +1,6 @@
 # Comment
 tempfile.txt
+tempfile2.txt
 .DS_store
 *.zip
 *.gz
@@ -8,5 +9,4 @@ log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
-.gitignore
 
